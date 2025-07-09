@@ -1,6 +1,6 @@
 # ate-bit
 
-retro terminal thing with games
+retro terminal with games
 
 ## what it does
 
