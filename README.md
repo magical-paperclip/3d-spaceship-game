@@ -37,13 +37,5 @@ tetris: arrows + space for drop, c to hold
 pong: w/s for left paddle, arrows for right
 breakout: a/d or arrows, space to launch
 
-## tech stuff
-
 vanilla js + vite
-
-## deploy
-
-works on vercel or whatever
-
-that's it
 
